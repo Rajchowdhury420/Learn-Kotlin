@@ -17,5 +17,4 @@ fun Student.expel(reason: String) {
     println("Expelling student from School. Reason: \"$reason\"")
 }
 
-
 // Happy Coding !!
