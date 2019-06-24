@@ -12,4 +12,5 @@ fun main(args: Array<String>) {
     else
         println("$num is odd")
 }
+
 // Happy Coding !!
