@@ -14,5 +14,6 @@ fun main(args: Array<String>) {
     println("G.C.D of $n1 and $n2 is $gcd")
 }
 
+
 // Happy Coding
 
