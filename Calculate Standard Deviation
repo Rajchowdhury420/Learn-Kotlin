@@ -21,4 +21,3 @@ fun calculateSD(numArray: DoubleArray): Double {
 
     return Math.sqrt(standardDeviation / 10)
 }
-
