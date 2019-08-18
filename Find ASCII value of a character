@@ -5,6 +5,3 @@ fun main(args: Array) {
 
     println("The ASCII value of $c is: $ascii")
 }
-
-
-
