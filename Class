@@ -4,7 +4,8 @@ class Student {
         println("Printing student result")
     }
  
-    fun expel() {
+    fun expel() 
+    {
         println("Expelling student from school")
     }
 }
