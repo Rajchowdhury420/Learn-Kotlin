@@ -1,6 +1,7 @@
 class Student {
  
-    fun printResult() {
+    fun printResult() 
+    {
         println("Printing student result")
     }
  
