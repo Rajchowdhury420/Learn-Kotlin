@@ -13,7 +13,6 @@ fun Student.printResult() {
     println("Extension function printResult()")
 }
  
- 
 fun Student.expel(reason: String) {
     println("Expelling student from School. Reason: \"$reason\"")
 }
